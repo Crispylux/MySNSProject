@@ -2,6 +2,9 @@
 
 eclipse - java,javascript,css + jsp
 
+<img width="945" height="2048" alt="myimg" src="https://github.com/user-attachments/assets/e78297e8-0d0a-4601-9c0c-b7a66e80c9e3" />
+
+
 상단 메뉴바를 추가하여
 
 회원가입, 로그인, 로그아웃, 친구추가, 친구삭제, 유저검색, 회원탈퇴, 내정보 창 등 구현.(github의 .jar 파일 참고)
