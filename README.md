@@ -1,7 +1,24 @@
-설명: https://r-pizzza.tistory.com/28
+# My SNS Project
+## INTO: https://r-pizzza.tistory.com/28
+- **개발 인원**: 1명 (개인 프로젝트)
+- **프로젝트 기간**: 2024.9 ~ 2024.12
+- **기술 스택**: `eclipse`, `Java`, `JavaScript`, `CSS`, `JSP`, `GoogleCloudPlatform`
+<br><br><br>
 
-eclipse - java,javascript,css + jsp
-
+## ⭐개요
+`Java`와 `JSP` 기반의 **SNS(소셜 네트워크 서비스) 애플리케이션**을 개인 프로젝트로 개발했습니다.<br>
+`Eclipse` 환경에서 회원가입, 로그인/로그아웃, 친구 추가 및 삭제, 유저 검색, 회원 탈퇴, 내 정보 조회 등 SNS의 핵심 기능을 직접 설계하고 구현했습니다.
+<br><br>
+`Google Cloud Platform(GCP)`을 활용해 서버를 배포함으로써 별도의 로컬 환경 없이도 안정적으로 서비스를 운영할 수 있도록 구성했습니다.<br>
+이후 `APK 빌드`를 통해 앱을 직접 다운로드하여 설치할 수 있게 했고, **모바일과 PC 양쪽 환경에서 모두 정상적으로 구동되도록 크로스플랫폼 대응**까지 마무리했습니다.
+<br><br><br>
+## ⭐핵심 기능
+- **회원 관리**: 회원가입, 로그인/로그아웃, 회원 탈퇴<br>
+- **소셜 기능**: 친구 추가/삭제, 유저 검색<br>
+- **마이페이지**: 내 정보 확인<br>
+- **인프라**: GCP 기반 서버 배포, APK 패키징을 통한 앱 배포<br>
+- **호환성**: 모바일 및 PC 환경 동시 지원<br>
+<br><br>
 <img width="945" height="2048" alt="myimg" src="https://github.com/user-attachments/assets/e78297e8-0d0a-4601-9c0c-b7a66e80c9e3" />
 
 
